@@ -1,16 +1,18 @@
-## Hi there 👋
+## 🙋‍♂️Introduction
+Hello, I’m Max. With over 10 years of experience creating digital products, my expertise spans UX design and frontend development. Currently I build up a storefront with Svelte, Typescript and GraphQL at the denim brand [Closed](https://www.closed.com).
 
-<!--
-**maxkreutzfeldt/maxkreutzfeldt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Reactive programming
+- Headless & API first
+- Responsive web design 
+- UX & Design systems
 
-Here are some ideas to get you started:
+## 📚 Projects
+Have a look on my [repositories](https://github.com/maxkreutzfeldt?tab=repositories).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech & tools
+- Languages: JavaScript, HTML5, CSS3, GraphQL, SQL
+- Technologies: SvelteKit, Svelte, Typescript, Vitest, Playwrite, Tailwind CSS, Storyblok, Statamic CMS, Storybook, commercetools
+- Tools: VS Code, GitHub Copilot, git, Postman, Figma
+
+## 👋 Connect
+Say hello at [LinkedIn](https://www.linkedin.com/in/max-kreutzfeldt/). 
